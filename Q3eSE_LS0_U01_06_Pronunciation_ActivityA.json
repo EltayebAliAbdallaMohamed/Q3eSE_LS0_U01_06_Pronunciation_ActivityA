@@ -1,0 +1,109 @@
+{
+  "title": "Q3eSE_LS0_U01_06_Pronunciation_ActivityA",
+  "sentences": [
+    {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "He goes shopping on Saturdays.",
+      "arabic": "هو يذهب للتسوق أيام السبت.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/He goes shopping on Saturdays.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },{
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "Khalid works downtown.",
+      "arabic": "خالد يعمل في وسط المدينة.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Khalid works downtown.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "Sam plays video games in the evening.",
+      "arabic": "سام يلعب ألعاب الفيديو في المساء.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Sam plays video games in the evening.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "Sun-Hee often goes running after work.",
+      "arabic": "تذهب صن-هي في كثير من الأحيان للجري بعد العمل.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Sun-Hee often goes running after work.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "Mary gets together with friends on Sundays.",
+      "arabic": "تجتمع ماري مع أصدقائها أيام الأحد.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Mary gets together with friends on Sundays.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "Mika lives in Los Angeles.",
+      "arabic": "ميكا تعيش في لوس أنجلوس.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Mika lives in Los Angeles.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "David washes his car on Saturdays.",
+      "arabic": "ديفيد يغسل سيارته أيام السبت.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/David washes his car on Saturdays.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "",
+      "keyWord": "",
+      "definition": "",
+      "english": "Miteb belongs to a golf club.",
+      "arabic": "متعب ينتمي إلى نادي جولف.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Miteb belongs to a golf club.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    }
+      ]
+}
